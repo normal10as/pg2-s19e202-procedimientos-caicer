@@ -9,7 +9,7 @@ Module Program
         LadoB = Console.ReadLine()
         Console.WriteLine(CalculoC(LadoA, LadoB))
     End Sub
-    Function CalculoC(LadoA As UInt16, LadoB As UInt16) As UInt16
+    Function CalculoC(LadoA As UInt16, LadoB As UInt16) As Double
         Return Sqrt(LadoA * LadoA + LadoB * LadoB)
     End Function
 End Module
