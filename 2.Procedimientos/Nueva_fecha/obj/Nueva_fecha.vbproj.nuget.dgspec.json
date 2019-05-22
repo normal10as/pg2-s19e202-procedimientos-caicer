@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Caicer\\source\\repos\\normal10as\\pg2-s19e202-procedimientos-caicer\\2.Procedimientos\\Nueva_fecha\\Nueva_fecha.vbproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Caicer\\source\\repos\\normal10as\\pg2-s19e202-procedimientos-caicer\\2.Procedimientos\\Nueva_fecha\\Nueva_fecha.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Caicer\\source\\repos\\normal10as\\pg2-s19e202-procedimientos-caicer\\2.Procedimientos\\Nueva_fecha\\Nueva_fecha.vbproj",
+        "projectName": "Nueva_fecha",
+        "projectPath": "C:\\Users\\Caicer\\source\\repos\\normal10as\\pg2-s19e202-procedimientos-caicer\\2.Procedimientos\\Nueva_fecha\\Nueva_fecha.vbproj",
+        "packagesPath": "C:\\Users\\Caicer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Caicer\\source\\repos\\normal10as\\pg2-s19e202-procedimientos-caicer\\2.Procedimientos\\Nueva_fecha\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Caicer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
