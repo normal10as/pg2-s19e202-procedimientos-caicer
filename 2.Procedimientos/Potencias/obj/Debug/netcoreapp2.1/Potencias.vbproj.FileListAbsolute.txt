@@ -1,0 +1,11 @@
+C:\Users\CaicerNotebook\Source\Repos\normal10as\pg2-s19e202-procedimientos-caicer\2.Procedimientos\Potencias\bin\Debug\netcoreapp2.1\Potencias.deps.json
+C:\Users\CaicerNotebook\Source\Repos\normal10as\pg2-s19e202-procedimientos-caicer\2.Procedimientos\Potencias\bin\Debug\netcoreapp2.1\Potencias.runtimeconfig.json
+C:\Users\CaicerNotebook\Source\Repos\normal10as\pg2-s19e202-procedimientos-caicer\2.Procedimientos\Potencias\bin\Debug\netcoreapp2.1\Potencias.runtimeconfig.dev.json
+C:\Users\CaicerNotebook\Source\Repos\normal10as\pg2-s19e202-procedimientos-caicer\2.Procedimientos\Potencias\bin\Debug\netcoreapp2.1\Potencias.dll
+C:\Users\CaicerNotebook\Source\Repos\normal10as\pg2-s19e202-procedimientos-caicer\2.Procedimientos\Potencias\bin\Debug\netcoreapp2.1\Potencias.pdb
+C:\Users\CaicerNotebook\Source\Repos\normal10as\pg2-s19e202-procedimientos-caicer\2.Procedimientos\Potencias\obj\Debug\netcoreapp2.1\Potencias.vbprojAssemblyReference.cache
+C:\Users\CaicerNotebook\Source\Repos\normal10as\pg2-s19e202-procedimientos-caicer\2.Procedimientos\Potencias\obj\Debug\netcoreapp2.1\Potencias.vbproj.CoreCompileInputs.cache
+C:\Users\CaicerNotebook\Source\Repos\normal10as\pg2-s19e202-procedimientos-caicer\2.Procedimientos\Potencias\obj\Debug\netcoreapp2.1\Potencias.AssemblyInfoInputs.cache
+C:\Users\CaicerNotebook\Source\Repos\normal10as\pg2-s19e202-procedimientos-caicer\2.Procedimientos\Potencias\obj\Debug\netcoreapp2.1\Potencias.AssemblyInfo.vb
+C:\Users\CaicerNotebook\Source\Repos\normal10as\pg2-s19e202-procedimientos-caicer\2.Procedimientos\Potencias\obj\Debug\netcoreapp2.1\Potencias.dll
+C:\Users\CaicerNotebook\Source\Repos\normal10as\pg2-s19e202-procedimientos-caicer\2.Procedimientos\Potencias\obj\Debug\netcoreapp2.1\Potencias.pdb

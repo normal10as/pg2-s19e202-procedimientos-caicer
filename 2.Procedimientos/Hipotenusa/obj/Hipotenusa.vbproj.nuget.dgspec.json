@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Caicer\\source\\repos\\normal10as\\pg2-s19e202-procedimientos-caicer\\2.Procedimientos\\Hipotenusa\\Hipotenusa.vbproj": {}
+    "C:\\Users\\CaicerNotebook\\Source\\Repos\\normal10as\\pg2-s19e202-procedimientos-caicer\\2.Procedimientos\\Hipotenusa\\Hipotenusa.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Caicer\\source\\repos\\normal10as\\pg2-s19e202-procedimientos-caicer\\2.Procedimientos\\Hipotenusa\\Hipotenusa.vbproj": {
+    "C:\\Users\\CaicerNotebook\\Source\\Repos\\normal10as\\pg2-s19e202-procedimientos-caicer\\2.Procedimientos\\Hipotenusa\\Hipotenusa.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Caicer\\source\\repos\\normal10as\\pg2-s19e202-procedimientos-caicer\\2.Procedimientos\\Hipotenusa\\Hipotenusa.vbproj",
+        "projectUniqueName": "C:\\Users\\CaicerNotebook\\Source\\Repos\\normal10as\\pg2-s19e202-procedimientos-caicer\\2.Procedimientos\\Hipotenusa\\Hipotenusa.vbproj",
         "projectName": "Hipotenusa",
-        "projectPath": "C:\\Users\\Caicer\\source\\repos\\normal10as\\pg2-s19e202-procedimientos-caicer\\2.Procedimientos\\Hipotenusa\\Hipotenusa.vbproj",
-        "packagesPath": "C:\\Users\\Caicer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Caicer\\source\\repos\\normal10as\\pg2-s19e202-procedimientos-caicer\\2.Procedimientos\\Hipotenusa\\obj\\",
+        "projectPath": "C:\\Users\\CaicerNotebook\\Source\\Repos\\normal10as\\pg2-s19e202-procedimientos-caicer\\2.Procedimientos\\Hipotenusa\\Hipotenusa.vbproj",
+        "packagesPath": "C:\\Users\\CaicerNotebook\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CaicerNotebook\\Source\\Repos\\normal10as\\pg2-s19e202-procedimientos-caicer\\2.Procedimientos\\Hipotenusa\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Caicer\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\CaicerNotebook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
         ],
         "sources": {
-          "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

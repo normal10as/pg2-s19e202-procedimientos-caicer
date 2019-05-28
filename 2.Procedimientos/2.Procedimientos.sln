@@ -7,7 +7,11 @@ Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "AhoraEs", "AhoraEs\AhoraEs.
 EndProject
 Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Hipotenusa", "Hipotenusa\Hipotenusa.vbproj", "{DAA17B42-20C5-4E8B-A561-0A999822161E}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Nueva_fecha", "Nueva_fecha\Nueva_fecha.vbproj", "{8B3AA950-9609-4F9E-83FB-E4CF5EC9934A}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Nueva_fecha", "Nueva_fecha\Nueva_fecha.vbproj", "{8B3AA950-9609-4F9E-83FB-E4CF5EC9934A}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VolumenCilindro", "VolumenCilindro\VolumenCilindro.vbproj", "{EFD7771D-283C-4AB9-B09D-84E87AD3C9EE}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Potencias", "Potencias\Potencias.vbproj", "{BFB739B7-703C-4660-B762-981E2FD00DA8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{8B3AA950-9609-4F9E-83FB-E4CF5EC9934A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B3AA950-9609-4F9E-83FB-E4CF5EC9934A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B3AA950-9609-4F9E-83FB-E4CF5EC9934A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFD7771D-283C-4AB9-B09D-84E87AD3C9EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFD7771D-283C-4AB9-B09D-84E87AD3C9EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFD7771D-283C-4AB9-B09D-84E87AD3C9EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFD7771D-283C-4AB9-B09D-84E87AD3C9EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFB739B7-703C-4660-B762-981E2FD00DA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB739B7-703C-4660-B762-981E2FD00DA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB739B7-703C-4660-B762-981E2FD00DA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB739B7-703C-4660-B762-981E2FD00DA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
