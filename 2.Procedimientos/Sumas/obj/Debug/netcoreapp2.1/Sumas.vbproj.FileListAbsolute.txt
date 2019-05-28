@@ -1,0 +1,10 @@
+C:\Users\CaicerNotebook\Source\Repos\normal10as\pg2-s19e202-procedimientos-caicer\2.Procedimientos\Sumas\bin\Debug\netcoreapp2.1\Sumas.deps.json
+C:\Users\CaicerNotebook\Source\Repos\normal10as\pg2-s19e202-procedimientos-caicer\2.Procedimientos\Sumas\bin\Debug\netcoreapp2.1\Sumas.runtimeconfig.json
+C:\Users\CaicerNotebook\Source\Repos\normal10as\pg2-s19e202-procedimientos-caicer\2.Procedimientos\Sumas\bin\Debug\netcoreapp2.1\Sumas.runtimeconfig.dev.json
+C:\Users\CaicerNotebook\Source\Repos\normal10as\pg2-s19e202-procedimientos-caicer\2.Procedimientos\Sumas\bin\Debug\netcoreapp2.1\Sumas.dll
+C:\Users\CaicerNotebook\Source\Repos\normal10as\pg2-s19e202-procedimientos-caicer\2.Procedimientos\Sumas\bin\Debug\netcoreapp2.1\Sumas.pdb
+C:\Users\CaicerNotebook\Source\Repos\normal10as\pg2-s19e202-procedimientos-caicer\2.Procedimientos\Sumas\obj\Debug\netcoreapp2.1\Sumas.vbproj.CoreCompileInputs.cache
+C:\Users\CaicerNotebook\Source\Repos\normal10as\pg2-s19e202-procedimientos-caicer\2.Procedimientos\Sumas\obj\Debug\netcoreapp2.1\Sumas.AssemblyInfoInputs.cache
+C:\Users\CaicerNotebook\Source\Repos\normal10as\pg2-s19e202-procedimientos-caicer\2.Procedimientos\Sumas\obj\Debug\netcoreapp2.1\Sumas.AssemblyInfo.vb
+C:\Users\CaicerNotebook\Source\Repos\normal10as\pg2-s19e202-procedimientos-caicer\2.Procedimientos\Sumas\obj\Debug\netcoreapp2.1\Sumas.dll
+C:\Users\CaicerNotebook\Source\Repos\normal10as\pg2-s19e202-procedimientos-caicer\2.Procedimientos\Sumas\obj\Debug\netcoreapp2.1\Sumas.pdb
