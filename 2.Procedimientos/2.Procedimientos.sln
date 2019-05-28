@@ -13,6 +13,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VolumenCilindro", "VolumenC
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Potencias", "Potencias\Potencias.vbproj", "{BFB739B7-703C-4660-B762-981E2FD00DA8}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Acumuladora", "Acumuladora\Acumuladora.vbproj", "{05678DC0-A524-4B3B-B0A4-FD0B0B5AF304}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{BFB739B7-703C-4660-B762-981E2FD00DA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFB739B7-703C-4660-B762-981E2FD00DA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFB739B7-703C-4660-B762-981E2FD00DA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05678DC0-A524-4B3B-B0A4-FD0B0B5AF304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05678DC0-A524-4B3B-B0A4-FD0B0B5AF304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05678DC0-A524-4B3B-B0A4-FD0B0B5AF304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05678DC0-A524-4B3B-B0A4-FD0B0B5AF304}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

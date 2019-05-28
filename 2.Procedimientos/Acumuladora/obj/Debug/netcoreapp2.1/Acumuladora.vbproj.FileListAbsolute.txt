@@ -1,0 +1,11 @@
+C:\Users\CaicerNotebook\Source\Repos\normal10as\pg2-s19e202-procedimientos-caicer\2.Procedimientos\Acumuladora\bin\Debug\netcoreapp2.1\Acumuladora.deps.json
+C:\Users\CaicerNotebook\Source\Repos\normal10as\pg2-s19e202-procedimientos-caicer\2.Procedimientos\Acumuladora\bin\Debug\netcoreapp2.1\Acumuladora.runtimeconfig.json
+C:\Users\CaicerNotebook\Source\Repos\normal10as\pg2-s19e202-procedimientos-caicer\2.Procedimientos\Acumuladora\bin\Debug\netcoreapp2.1\Acumuladora.runtimeconfig.dev.json
+C:\Users\CaicerNotebook\Source\Repos\normal10as\pg2-s19e202-procedimientos-caicer\2.Procedimientos\Acumuladora\bin\Debug\netcoreapp2.1\Acumuladora.dll
+C:\Users\CaicerNotebook\Source\Repos\normal10as\pg2-s19e202-procedimientos-caicer\2.Procedimientos\Acumuladora\bin\Debug\netcoreapp2.1\Acumuladora.pdb
+C:\Users\CaicerNotebook\Source\Repos\normal10as\pg2-s19e202-procedimientos-caicer\2.Procedimientos\Acumuladora\obj\Debug\netcoreapp2.1\Acumuladora.vbprojAssemblyReference.cache
+C:\Users\CaicerNotebook\Source\Repos\normal10as\pg2-s19e202-procedimientos-caicer\2.Procedimientos\Acumuladora\obj\Debug\netcoreapp2.1\Acumuladora.vbproj.CoreCompileInputs.cache
+C:\Users\CaicerNotebook\Source\Repos\normal10as\pg2-s19e202-procedimientos-caicer\2.Procedimientos\Acumuladora\obj\Debug\netcoreapp2.1\Acumuladora.AssemblyInfoInputs.cache
+C:\Users\CaicerNotebook\Source\Repos\normal10as\pg2-s19e202-procedimientos-caicer\2.Procedimientos\Acumuladora\obj\Debug\netcoreapp2.1\Acumuladora.AssemblyInfo.vb
+C:\Users\CaicerNotebook\Source\Repos\normal10as\pg2-s19e202-procedimientos-caicer\2.Procedimientos\Acumuladora\obj\Debug\netcoreapp2.1\Acumuladora.dll
+C:\Users\CaicerNotebook\Source\Repos\normal10as\pg2-s19e202-procedimientos-caicer\2.Procedimientos\Acumuladora\obj\Debug\netcoreapp2.1\Acumuladora.pdb
