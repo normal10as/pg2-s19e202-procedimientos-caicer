@@ -17,6 +17,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Acumuladora", "Acumuladora\
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Sumas", "Sumas\Sumas.vbproj", "{298586AB-16FF-4299-9CA5-ABB7D2A31492}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SuperficieFiguras", "SuperficieFiguras\SuperficieFiguras.vbproj", "{5E582602-53C6-4683-B44E-DB6424A9EAC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{298586AB-16FF-4299-9CA5-ABB7D2A31492}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{298586AB-16FF-4299-9CA5-ABB7D2A31492}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{298586AB-16FF-4299-9CA5-ABB7D2A31492}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E582602-53C6-4683-B44E-DB6424A9EAC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E582602-53C6-4683-B44E-DB6424A9EAC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E582602-53C6-4683-B44E-DB6424A9EAC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E582602-53C6-4683-B44E-DB6424A9EAC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
