@@ -7,15 +7,17 @@ Module Program
         Console.WriteLine("ingrese numero")
         numero = Console.ReadLine()
         acumular(numero)
+        Console.WriteLine("la suma hasta ahora es " & suma)
         Console.WriteLine("ingrese numero")
         numero = Console.ReadLine()
         acumular(numero)
+        Console.WriteLine("la suma hasta ahora es " & suma)
         Console.WriteLine("ingrese numero")
         numero = Console.ReadLine()
         acumular(numero)
+        Console.WriteLine("la suma hasta ahora es " & suma)
     End Sub
     Sub acumular(numero As Int16)
         suma = suma + numero
-        Console.WriteLine("la suma hasta ahora es " & suma)
     End Sub
 End Module
