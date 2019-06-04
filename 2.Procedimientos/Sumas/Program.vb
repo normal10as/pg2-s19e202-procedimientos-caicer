@@ -19,9 +19,9 @@ Module Program
         Return NumDos + NumUno
     End Function
     Function suma(NumUno As Int16, NumDos As Int16, NumTres As Int16) As Int32
-        Return uma(NumDos ,suma(NumUno + NumTres))
+        Return uma(NumDos,suma(NumUno,NumTres))
     End Function
     Function suma(NumUno As Int16, NumDos As Int16, NumTres As Int16, NumCuatro As Int16) As Int32
-        Return suma(suma(NumDos + NumUno), suma(NumTres + NumCuatro))
+        Return suma(suma(NumDos,NumUno), suma(NumTres,NumCuatro))
     End Function
 End Module
