@@ -16,18 +16,12 @@ Module Program
         Console.WriteLine("la suma de cuatro numeros es " & suma(NumDos, NumUno, NumTres, NumCuatro))
     End Sub
     Function suma(NumUno As Int16, NumDos As Int16) As Int32
-        Dim sumatoria As Int32
-        sumatoria = NumDos + NumUno
-        Return sumatoria
+        Return NumDos + NumUno
     End Function
     Function suma(NumUno As Int16, NumDos As Int16, NumTres As Int16) As Int32
-        Dim sumatoria As Int32
-        sumatoria = NumDos + NumUno + NumTres
-        Return sumatoria
+        Return uma(NumDos ,suma(NumUno + NumTres))
     End Function
     Function suma(NumUno As Int16, NumDos As Int16, NumTres As Int16, NumCuatro As Int16) As Int32
-        Dim sumatoria As Int32
-        sumatoria = NumDos + NumUno + NumTres + NumCuatro
-        Return sumatoria
+        Return suma(suma(NumDos + NumUno) + suma(NumTres + NumCuatro))
     End Function
 End Module
